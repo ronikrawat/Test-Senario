@@ -1,0 +1,17 @@
+Test Scenarios for LIFT
+1.  Verify the dimensions of the lift.
+2.  Verify the type of door of the lift is as per the specification .
+3. Verify the type of metal used in the lift interior and exterior
+4. Verify the capacity of the lift in terms of total weight.
+5. Verify the buttons in the lift to close and open the door and numbers as per the number of floors.
+6. Verify that lift moves to the particular floor as the button of the floor is clicked .
+7. Verify that lift stops when up/down buttons at particular floor are pressed
+8. Verify if there is any emergency button to contact officials in case of any mishap
+9. Verify the performance of the floor-time taken to go to a floor
+10. Verify that in case of power failure, lift doesn't free-fall and get halted in the particular floor.
+
+11. Verify lifts working in case button to open the door is pressed before reaching the destination.
+12. Verify that in door is about to close and an object is placed between the doors, if the doors.
+13. Verify the time duration for which door remain open by default.
+14. Verify if lift interior is having proper air ventilation.
+

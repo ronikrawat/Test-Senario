@@ -1,0 +1,20 @@
+Test scenarios for Fan
+1. Check the type of fan - whether the fan is ceiling fan or table fan
+2. Verify the number of blades on the fan
+3. Verify the ON-OFF functionality of fan
+4. Verify if the fan works normally-throws wind on the right direction
+5. Verify the material of which fan's blade and other parts are made
+6. Check the voltage/power requirement of the fan
+7. Verify the maximum speed of fan
+8. Check the minimum speed of the fan
+9. Verify that the speed of fan can be regulated using regulator
+10. Verify that when in motion, the fan should not wobble
+11. Check the length of the fan rod and blades
+12. Verify that the weight of the fan is as per the specifications
+13. Verify that the color of the fan is as per the specifications
+14. Check the effect of voltage fluctuation on fan when in motion
+15. Check the effect of sudden electricity outage on fan's motor and other electrical parts
+16. Verify the fan's condition when continuously switched on for very large duration
+17. Check if there is any life time of fan's internal parts or the body
+18. Check if the blades of the fan can be bend or not, check if its material is brittle
+19. Check the time taken by fan to attain maximum speed, when switched ON

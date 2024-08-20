@@ -1,0 +1,25 @@
+Test Scenarios for Calculator
+1. Check if the calculator is normal calculator or scientific calculator.
+2. Verify that all the buttons are present and text written on them is readable.
+3. Check the arithmetic operations are working fine- +, -, /, * etc.
+4. Verify that BODMAS is applied in case of complex queries and correct result is returned.
+5. Verify that calculator gives correct result in case of operations containing decimal
+Numbers.
+6. Check if the calculator is battery operated or works on solar power.
+7. Verify the outer body material of the calculator.
+8. Verify the spacing between the two buttons, the buttons should not be too closely
+Placed.
+9. Check the pressure required to press a button, the pressure required should not be too
+High.
+10. Verify the number of digits allowed to enter in the calculator for any operation.
+11. Verify the limit of the response value.
+12. Verify the functioning of memory functions.
+13. Check if calculator allows to navigate through previous calculations.
+14. Verify that hitting 'C' cancels any digits or operation added.
+15. Verify the working of ON-OFF button in the calculator.
+16. Check if keeping the calculator unused for certain period of time, turns it off
+Automatically.
+17. Verify that on pressing two operators one after the other, the latest one will override
+the previous operator.
+18. Verify the state of calculator when two buttons are pressed simultaneously.
+19. Verify if user can delete a digits one by one using backspace key.

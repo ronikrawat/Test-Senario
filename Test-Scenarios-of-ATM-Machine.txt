@@ -1,0 +1,34 @@
+Test Scenarios of ATM Machine
+1. Verify the slot for ATM Card insertion is as per the specification
+2. Verify that user is presented with options when card is inserted from proper side
+3. Verify that no option to continue and enter credentials is displayed to user when card is
+inserted correctly
+4. Verify that font of the text displayed in ATM screen is as per the specifications
+5. Verify that touch of the ATM screen is smooth and operational
+6. Verify that user is presented with option to choose language for further operations
+7. Verify that user asked to enter pin number before displaying any card/bank account
+detail
+8. Verify that there are limited number of attempts up to which user is allowed to enter
+pin code
+9. Verify that if total number of incorrect pin attempts gets surpassed then user is not
+allowed to continue further- operations like blocking of card etc. gets initiated
+10. Verify that pin is encrypted and when entered
+11. Verify that user is presented with different account type options like- saving, current
+etc.
+12. Verify that user is allowed to get account details like available balance
+13. Verify that user same amount of money gets dispatched as entered by user for cash
+withdrawal
+14. Verify that user is only allowed to enter amount in multiples of denominations as per
+the specifications
+15. Verify that user is prompted to enter the amount again in case amount entered is not as
+per the specification and proper message should be displayed for the same
+16. Verify that user cannot fetch more amount than the total available balance
+17. Verify that user is provided the option to print the transaction/enquiry
+18. Verify that user user's session timeout is maintained and is as per the specifications
+19. Verify that user is not allowed to exceed one transaction limit amount
+20. Verify that user is not allowed to exceed one-day transaction limit amount
+21. Verify that user is allowed to do only one transaction per pin request
+22. Verify that user is not allowed to proceed with expired ATM card
+23. Verify that in case ATM machine runs out of money, proper message is displayed to user
+24. Verify that in case sudden electricity loss in between the operation, the transaction is
+marked as null and amount is not withdrawn from user's account
